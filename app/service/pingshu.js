@@ -3,27 +3,22 @@ const cheerio = require("cheerio");
 const iconv = require("iconv-lite");
 const fs = require("fs-extra");
 const path = require("path");
+const request = require("request-promise");
 
 class PingshuService extends Service {
   async generateJSON() {
     const { app } = this;
+    const outputDir = path.join(app.baseDir, "data");
+    await fs.ensureDir(outputDir);
+
     // 获取所有专辑的链接
     const books = await this.fetchAllBookUrls();
-    let res = [];
-    for (let i = 0; i < books.length; i++) {
-      const book = books[i];
-      // 获取专辑下所有的章节链接
-      book.chapters = await this.fetchChapters(book);
-      res.push(book);
-    }
-
-    const outputDir = path.join(app.baseDir, "data");
-    try {
-      await fs.ensureDir(outputDir);
-      await fs.writeJson(`${outputDir}/shantianfang.json`);
-    } catch (e) {
-      // ignore
-    }
+    const promises = [];
+    books.forEach((book) => {
+      promises.push(this.fetchChapters(book));
+    });
+    await Promise.all(promises);
+    console.log("DONE!");
   }
 
   async fetchAllBookUrls() {
@@ -67,7 +62,7 @@ class PingshuService extends Service {
   }
 
   async fetchChapters(book) {
-    const { ctx } = this;
+    const { ctx, app } = this;
     console.log(`抓取章节: ${book.name}`);
     const chapters = [];
     try {
@@ -93,7 +88,11 @@ class PingshuService extends Service {
       chapter.downloadUrl = await this.fetchDownloadUrl(chapter);
       res.push(chapter);
     }
-    return res;
+    book.chapters = res;
+
+    const outputDir = path.join(app.baseDir, "data");
+    await fs.ensureDir(`${outputDir}/shantianfang`);
+    await fs.writeJson(`${outputDir}/shantianfang/${book.name}.json`, book);
   }
 
   async fetchDownloadUrl(chapter) {
@@ -109,6 +108,47 @@ class PingshuService extends Service {
       // ignore
     }
     return url;
+  }
+
+  async downloadAllBook() {
+    const { app } = this;
+    const outputDir = path.join(app.baseDir, "data/shantianfang");
+    let dirs = await fs.readdir(outputDir);
+    dirs = dirs.filter((item) => item.includes(".json"));
+    for (let i = 0; i < dirs.length; i++) {
+      const bookName = dirs[i];
+      await this.downloadBook(bookName);
+    }
+    console.log("所有专辑已下载!");
+  }
+
+  async downloadBook(bookName) {
+    const { app } = this;
+    const outputDir = path.join(app.baseDir, "data");
+    const book = await fs.readJson(`${outputDir}/shantianfang/${bookName}`);
+    await fs.ensureDir(`${outputDir}/shantianfang/${book.name}`);
+    for (let i = 0; i < book.chapters.length; i++) {
+      const chapter = book.chapters[i];
+      await this.downloadChapter(book, chapter);
+    }
+    console.log(`专辑已下载: ${bookName}`);
+  }
+
+  async downloadChapter(book, chapter) {
+    const { app } = this;
+    const outputDir = path.join(app.baseDir, "data");
+    const p = path.join(outputDir, `shantianfang/${book.name}/${chapter.name}.mp3`);
+    if (chapter.downloadUrl === "") {
+      return;
+    }
+    const url = chapter.downloadUrl.replace("doshantianfang1", "oshantianfang1");
+    const stream = fs.createWriteStream(p);
+    try {
+      await request(url).pipe(stream);
+      console.log(`下载成功: ${chapter.name}`);
+    } catch (e) {
+      console.log(`下载失败: ${chapter.name}`);
+    }
   }
 }
 

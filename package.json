@@ -12,7 +12,10 @@
     "egg-scripts": "^2.11.0",
     "fs-extra": "^9.0.1",
     "iconv-lite": "^0.6.2",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.20",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {
     "autod": "^3.0.1",
