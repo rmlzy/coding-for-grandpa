@@ -75,5 +75,9 @@
     "http://zhongweiwei.zgpingshu.com/index.html",
     "http://zhongweiwei.zgpingshu.com/index_2.html",
     "http://zhongweiwei.zgpingshu.com/index_3.html"
-  ]
+  ],
+  "guodegang": ["http://www.zgpingshu.com/mingrentang/guodegang/index.html"],
+  "jinwensheng": ["http://www.zgpingshu.com/mingrentang/jinwensheng/index.html"],
+  "tanchuanxu": ["http://www.zgpingshu.com/mingrentang/tanchuanxu/index.html"],
+  "shilianjun": ["http://www.zgpingshu.com/mingrentang/shilianjun/index.html"]
 }
