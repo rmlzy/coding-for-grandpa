@@ -31,3 +31,6 @@ ls -lR ./data|grep json|wc -l
 # 查看文件夹大小
 du -sh * | sort -rh
 ```
+
+## 说明
+所有资源均采集自网络, 如有侵权, 请联系我 rmlzy@outlook.com, 我将第一时间移除
