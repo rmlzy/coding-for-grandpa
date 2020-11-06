@@ -142,7 +142,7 @@ class PingshuService extends Service {
     for (let i = 0; i < dirs.length; i++) {
       const bookName = dirs[i];
       const dirName = bookName.replace(".json", "");
-      if (fs.existsSync(`${outputDir}/${dirName}`)) {
+      if (fs.existsSync(`${app.baseDir}/data/${dirName}`)) {
         console.log(`已存在: ${dirName}`);
         continue;
       }
