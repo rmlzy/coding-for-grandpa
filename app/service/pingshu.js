@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const iconv = require("iconv-lite");
 const fs = require("fs-extra");
 const path = require("path");
-const request = require("request-promise");
+const request = require("request-promise-native");
 
 class PingshuService extends Service {
   async generateJSON() {
@@ -25,7 +25,6 @@ class PingshuService extends Service {
     const pageUrls = [
       "http://shantianfang.zgpingshu.com/index.html",
       "http://shantianfang.zgpingshu.com/index_2.html",
-      "http://shantianfang.zgpingshu.com/index_3.html",
       "http://shantianfang.zgpingshu.com/index_3.html",
       "http://shantianfang.zgpingshu.com/index_4.html",
       "http://shantianfang.zgpingshu.com/index_5.html",
@@ -56,7 +55,7 @@ class PingshuService extends Service {
         urls.push({ name, url: `http:${url}`, chapters: [] });
       });
     } catch (e) {
-      // ignore
+      console.log("fetchBookUrls ERROR: ", e.message);
     }
     return urls;
   }
@@ -71,14 +70,14 @@ class PingshuService extends Service {
       const $ = cheerio.load(decoded);
       $(".play-area .play-btns li").each(function (i, div) {
         const name = $(this).find(".player a").text();
-        const url = $(this).find(".down a").attr("href");
+        const url = $(this).find(".player a").attr("href");
         chapters.push({
           name: `${name} - ${book.name}`,
           url: `http:${url}`,
         });
       });
     } catch (e) {
-      // ignore
+      console.log("fetchChapters ERROR: ", e.message);
     }
 
     // 抓取下载链接
@@ -98,16 +97,17 @@ class PingshuService extends Service {
   async fetchDownloadUrl(chapter) {
     const { ctx } = this;
     console.log(`抓取下载地址: ${chapter.name}`);
-    let url = "";
+    let downloadUrl = "";
     try {
-      const res = await ctx.curl(chapter.url, { type: "GET", dataType: "html" });
-      const decoded = iconv.decode(res.data, "GBK");
-      const $ = cheerio.load(decoded);
-      url = $("#categoryHeader a#down").attr("href");
+      const url = chapter.url.replace("/play/", "/playdata/");
+      const res = await ctx.curl(url, { type: "POST", dataType: "json" });
+      if (res.data.urlpath) {
+        downloadUrl = res.data.urlpath.replace(".flv", ".mp3");
+      }
     } catch (e) {
-      // ignore
+      console.log("fetchDownloadUrl ERROR: ", e.message);
     }
-    return url;
+    return downloadUrl;
   }
 
   async downloadAllBook() {
@@ -136,15 +136,12 @@ class PingshuService extends Service {
 
   async downloadChapter(book, chapter) {
     const { app } = this;
-    const outputDir = path.join(app.baseDir, "data");
-    const p = path.join(outputDir, `shantianfang/${book.name}/${chapter.name}.mp3`);
-    if (chapter.downloadUrl === "") {
-      return;
-    }
+    if (chapter.downloadUrl === "") return;
     const url = chapter.downloadUrl.replace("doshantianfang1", "oshantianfang1");
-    const stream = fs.createWriteStream(p);
+    const outputFileName = path.join(app.baseDir, `data/shantianfang/${book.name}/${chapter.name}.mp3`);
     try {
-      await request(url).pipe(stream);
+      const buffer = await request.get({ uri: url, encoding: null });
+      await fs.writeFile(outputFileName, buffer);
       console.log(`下载成功: ${chapter.name}`);
     } catch (e) {
       console.log(`下载失败: ${chapter.name}`);

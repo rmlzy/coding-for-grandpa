@@ -13,9 +13,8 @@
     "fs-extra": "^9.0.1",
     "iconv-lite": "^0.6.2",
     "lodash": "^4.17.20",
-    "node-fetch": "^2.6.1",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise-native": "^1.0.9"
   },
   "devDependencies": {
     "autod": "^3.0.1",

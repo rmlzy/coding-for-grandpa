@@ -8,10 +8,10 @@ class PingshuController extends Controller {
     ctx.runInBackground(async () => {
       // await service.pingshu.generateJSON();
 
-      const bookJson = "三侠五义.json";
-      await service.pingshu.downloadBook(bookJson);
+      // const bookJson = "七杰小五义(68回版).json";
+      // await service.pingshu.downloadBook(bookJson);
 
-      // await service.pingshu.downloadAllBook();
+      await service.pingshu.downloadAllBook();
     });
     ctx.body = "OK";
   }
