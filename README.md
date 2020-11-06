@@ -14,3 +14,7 @@ http://127.0.0.1:1033/pingshu/fetch/lianliru
 # 下载作者的全部书籍
 http://127.0.0.1:1033/pingshu/fetch/lianliru
 ```
+
+## 其他
+
+`data/author.json` 为所有评书作者的作品链接

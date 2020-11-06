@@ -20,41 +20,8 @@ class PingshuService extends Service {
   }
 
   async _fetchAllBookUrls(author) {
-    const authorMap = {
-      shantianfang: [
-        "http://shantianfang.zgpingshu.com/index.html",
-        "http://shantianfang.zgpingshu.com/index_2.html",
-        "http://shantianfang.zgpingshu.com/index_3.html",
-        "http://shantianfang.zgpingshu.com/index_4.html",
-        "http://shantianfang.zgpingshu.com/index_5.html",
-        "http://shantianfang.zgpingshu.com/index_6.html",
-        "http://shantianfang.zgpingshu.com/index_7.html",
-        "http://shantianfang.zgpingshu.com/index_8.html",
-      ],
-      yuankuocheng: [
-        "http://yuankuocheng.zgpingshu.com/index.html",
-        "http://yuankuocheng.zgpingshu.com/index_2.html",
-        "http://yuankuocheng.zgpingshu.com/index_3.html",
-      ],
-      tianlianyuan: [
-        "http://tianlianyuan.zgpingshu.com/index.html",
-        "http://tianlianyuan.zgpingshu.com/index_2.html",
-        "http://tianlianyuan.zgpingshu.com/index_3.html",
-        "http://tianlianyuan.zgpingshu.com/index_4.html",
-        "http://tianlianyuan.zgpingshu.com/index_5.html",
-      ],
-      liulanfang: [
-        "http://liulanfang.zgpingshu.com/index.html",
-        "http://liulanfang.zgpingshu.com/index_2.html",
-        "http://liulanfang.zgpingshu.com/index_3.html",
-      ],
-      lianliru: [
-        "http://lianliru.zgpingshu.com/index.html",
-        "http://lianliru.zgpingshu.com/index_2.html",
-        "http://lianliru.zgpingshu.com/index_3.html",
-        "http://lianliru.zgpingshu.com/index_4.html",
-      ],
-    };
+    const { app } = this;
+    const authorMap = await fs.readJson(`${app.baseDir}/data/author.json`);
     const pageUrls = authorMap[author] || [];
     if (pageUrls.length === 0) return;
     const bookUrls = [];
@@ -68,7 +35,7 @@ class PingshuService extends Service {
 
   async _fetchBookUrls(author, pageUrl) {
     const { ctx } = this;
-    console.log(`抓取专辑: ${author}《${pageUrl}》`);
+    console.log(`抓取专辑: ${pageUrl}`);
     const urls = [];
     try {
       const res = await ctx.curl(pageUrl, { type: "GET", dataType: "html", timeout: 60000 });
@@ -87,7 +54,7 @@ class PingshuService extends Service {
 
   async _fetchChapters(book) {
     const { ctx, app } = this;
-    console.log(`抓取章节: ${book.author}《${book.name}》`);
+    console.log(`抓取章节: ${book.name}`);
     const chapters = [];
     try {
       const res = await ctx.curl(book.url, { type: "GET", dataType: "html", timeout: 10000 });
@@ -155,7 +122,7 @@ class PingshuService extends Service {
     const { app } = this;
     const book = await fs.readJson(`${app.baseDir}/data/${author}/${bookName}`);
     await fs.ensureDir(`${app.baseDir}/data/${author}/${book.name}`);
-    console.log(`下载专辑： ${author}《${bookName}》`);
+    console.log(`下载专辑： ${author}`);
     for (let i = 0; i < book.chapters.length; i++) {
       const chapter = book.chapters[i];
       await this._downloadChapter(book, chapter);
@@ -165,7 +132,7 @@ class PingshuService extends Service {
   async _downloadChapter(book, chapter) {
     const { app } = this;
     if (chapter.downloadUrl === "") return;
-    console.log(`下载章节：${chapter.name}《${book.name}》`);
+    console.log(`下载章节：${chapter.name}`);
     const url = chapter.downloadUrl.replace("doshantianfang1", "oshantianfang1");
     const outputFileName = path.join(app.baseDir, `data/${book.author}/${book.name}/${chapter.name}.mp3`);
     try {
