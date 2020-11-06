@@ -5,5 +5,6 @@
  */
 module.exports = app => {
   const { router, controller } = app;
-  router.get('/', controller.pingshu.fetch);
+  router.get('/pingshu/fetch/:author', controller.pingshu.fetch);
+  router.get('/pingshu/download/:author', controller.pingshu.download);
 };

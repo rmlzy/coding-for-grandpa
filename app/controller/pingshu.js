@@ -5,13 +5,18 @@ const Controller = require("egg").Controller;
 class PingshuController extends Controller {
   async fetch() {
     const { ctx, service } = this;
+    const { author } = ctx.params;
     ctx.runInBackground(async () => {
-      // await service.pingshu.generateJSON();
+      await service.pingshu.fetch(author);
+    });
+    ctx.body = "OK";
+  }
 
-      // const bookJson = "七杰小五义(68回版).json";
-      // await service.pingshu.downloadBook(bookJson);
-
-      await service.pingshu.downloadAllBook();
+  async download() {
+    const { ctx, service } = this;
+    const { author } = ctx.params;
+    ctx.runInBackground(async () => {
+      await service.pingshu.download(author);
     });
     ctx.body = "OK";
   }

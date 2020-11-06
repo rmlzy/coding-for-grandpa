@@ -1,0 +1,913 @@
+{
+  "name": "鹿鼎记",
+  "author": "lianliru",
+  "url": "http://lianliru.zgpingshu.com/5116/",
+  "chapters": [
+    {
+      "name": "001回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/12CD364D37.mp3"
+    },
+    {
+      "name": "002回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/2.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/9614400D03.mp3"
+    },
+    {
+      "name": "003回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/3.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D56CE83E8E.mp3"
+    },
+    {
+      "name": "004回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/4.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/8018C32507.mp3"
+    },
+    {
+      "name": "005回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/5.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/07776C28AD.mp3"
+    },
+    {
+      "name": "006回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/6.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/3880C512EF.mp3"
+    },
+    {
+      "name": "007回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/7.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/9CFDBE5277.mp3"
+    },
+    {
+      "name": "008回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/8.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/595DBBCFAD.mp3"
+    },
+    {
+      "name": "009回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/9.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FF8D0A34D8.mp3"
+    },
+    {
+      "name": "010回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/10.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/0D45CE4EB3.mp3"
+    },
+    {
+      "name": "011回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/11.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E71EF2604C.mp3"
+    },
+    {
+      "name": "012回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/12.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/535E16D2BB.mp3"
+    },
+    {
+      "name": "013回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/13.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/05724E1E8B.mp3"
+    },
+    {
+      "name": "014回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/14.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/2C16CD2DD4.mp3"
+    },
+    {
+      "name": "015回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/15.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D8D99DC6C5.mp3"
+    },
+    {
+      "name": "016回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/16.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C8D50CF773.mp3"
+    },
+    {
+      "name": "017回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/17.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/94040402F8.mp3"
+    },
+    {
+      "name": "018回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/18.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DC831490FF.mp3"
+    },
+    {
+      "name": "019回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/19.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/AA60EF968E.mp3"
+    },
+    {
+      "name": "020回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/20.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D87F2EFD78.mp3"
+    },
+    {
+      "name": "021回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/21.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/5ADC4405ED.mp3"
+    },
+    {
+      "name": "022回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/22.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/91AA809896.mp3"
+    },
+    {
+      "name": "023回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/23.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/9ABD127A1D.mp3"
+    },
+    {
+      "name": "024回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/24.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/019BDF6D06.mp3"
+    },
+    {
+      "name": "025回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/25.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/9D4E3B3AEA.mp3"
+    },
+    {
+      "name": "026回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/26.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D510CC3FD2.mp3"
+    },
+    {
+      "name": "027回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/27.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/61901F8B4B.mp3"
+    },
+    {
+      "name": "028回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/28.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/15586F423E.mp3"
+    },
+    {
+      "name": "029回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/29.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/591B7A2CB2.mp3"
+    },
+    {
+      "name": "030回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/30.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D64C7D7D17.mp3"
+    },
+    {
+      "name": "031回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/31.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/BA7FB6AB9E.mp3"
+    },
+    {
+      "name": "032回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/32.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C99F5B761D.mp3"
+    },
+    {
+      "name": "033回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/33.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/07B31018DD.mp3"
+    },
+    {
+      "name": "034回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/34.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/032989C418.mp3"
+    },
+    {
+      "name": "035回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/35.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/43A749AB2A.mp3"
+    },
+    {
+      "name": "036回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/36.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/BE30FE58B0.mp3"
+    },
+    {
+      "name": "037回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/37.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C3C456C28C.mp3"
+    },
+    {
+      "name": "038回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/38.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F2D0C4B94C.mp3"
+    },
+    {
+      "name": "039回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/39.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/8E974960BD.mp3"
+    },
+    {
+      "name": "040回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/40.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FB1A2382D3.mp3"
+    },
+    {
+      "name": "041回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/41.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/82169C7830.mp3"
+    },
+    {
+      "name": "042回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/42.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DBEA362449.mp3"
+    },
+    {
+      "name": "043回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/43.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F6ECA2B866.mp3"
+    },
+    {
+      "name": "044回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/44.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/6CF02B191B.mp3"
+    },
+    {
+      "name": "045回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/45.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/81BC1D33BB.mp3"
+    },
+    {
+      "name": "046回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/46.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/3F4A551D3D.mp3"
+    },
+    {
+      "name": "047回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/47.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E7384012BF.mp3"
+    },
+    {
+      "name": "048回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/48.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/0FAEA67850.mp3"
+    },
+    {
+      "name": "049回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/49.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/206D0891F3.mp3"
+    },
+    {
+      "name": "050回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/50.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/EE0D5CC293.mp3"
+    },
+    {
+      "name": "051回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/51.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/3D09CC76BD.mp3"
+    },
+    { "name": "052回 - 鹿鼎记", "url": "http://www.zgpingshu.com/play/5116/52.html", "downloadUrl": "" },
+    {
+      "name": "053回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/53.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/1606667AFD.mp3"
+    },
+    {
+      "name": "054回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/54.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/700BBA007C.mp3"
+    },
+    {
+      "name": "055回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/55.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/AB77C676FB.mp3"
+    },
+    {
+      "name": "056回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/56.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/2F9D0ABBF4.mp3"
+    },
+    {
+      "name": "057回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/57.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/A31FC47E53.mp3"
+    },
+    {
+      "name": "058回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/58.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/A6623B6724.mp3"
+    },
+    {
+      "name": "059回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/59.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/4F04ED6946.mp3"
+    },
+    {
+      "name": "060回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/60.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/63AA0D8557.mp3"
+    },
+    {
+      "name": "061回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/61.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/116CE24C75.mp3"
+    },
+    {
+      "name": "062回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/62.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/3A6D1CD7C1.mp3"
+    },
+    {
+      "name": "063回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/63.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/5B27CD8D9E.mp3"
+    },
+    {
+      "name": "064回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/64.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/A8BE8FB180.mp3"
+    },
+    {
+      "name": "065回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/65.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DF06058C7E.mp3"
+    },
+    {
+      "name": "066回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/66.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/9161D602D4.mp3"
+    },
+    {
+      "name": "067回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/67.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/3FB765EF1E.mp3"
+    },
+    {
+      "name": "068回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/68.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/03C3ECAE88.mp3"
+    },
+    {
+      "name": "069回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/69.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/CDE2A501B1.mp3"
+    },
+    {
+      "name": "070回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/70.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E421C7EE94.mp3"
+    },
+    {
+      "name": "071回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/71.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/5CB43990C1.mp3"
+    },
+    {
+      "name": "072回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/72.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/2163DD09A5.mp3"
+    },
+    {
+      "name": "073回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/73.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/7E3BC529AF.mp3"
+    },
+    {
+      "name": "074回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/74.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/66519BA8E0.mp3"
+    },
+    {
+      "name": "075回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/75.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/4A704ADCFA.mp3"
+    },
+    {
+      "name": "076回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/76.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E3E83DCC3C.mp3"
+    },
+    {
+      "name": "077回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/77.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/4EB7668528.mp3"
+    },
+    {
+      "name": "078回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/78.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D7090EB816.mp3"
+    },
+    {
+      "name": "079回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/79.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C3245563DA.mp3"
+    },
+    {
+      "name": "080回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/80.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DA9545BC83.mp3"
+    },
+    {
+      "name": "081回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/81.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/872BE38D9E.mp3"
+    },
+    {
+      "name": "082回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/82.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/0DE95559E6.mp3"
+    },
+    {
+      "name": "083回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/83.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FD0EC4B490.mp3"
+    },
+    {
+      "name": "084回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/84.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F6F865372E.mp3"
+    },
+    {
+      "name": "085回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/85.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/1A22871B0A.mp3"
+    },
+    {
+      "name": "086回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/86.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/8660AF9B66.mp3"
+    },
+    {
+      "name": "087回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/87.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/194C9CE393.mp3"
+    },
+    {
+      "name": "088回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/88.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E20D75F790.mp3"
+    },
+    {
+      "name": "089回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/89.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/822ED0C3A7.mp3"
+    },
+    {
+      "name": "090回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/90.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/37BAAD10D2.mp3"
+    },
+    {
+      "name": "091回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/91.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/3B09F6A08C.mp3"
+    },
+    {
+      "name": "092回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/92.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DDD4BD83C0.mp3"
+    },
+    {
+      "name": "093回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/93.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/7E8F005113.mp3"
+    },
+    {
+      "name": "094回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/94.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/7EA97876F9.mp3"
+    },
+    {
+      "name": "095回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/95.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/CFB6E4BB94.mp3"
+    },
+    {
+      "name": "096回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/96.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/620458ECB0.mp3"
+    },
+    {
+      "name": "097回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/97.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/85ACB25882.mp3"
+    },
+    {
+      "name": "098回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/98.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/7CEE7802EE.mp3"
+    },
+    {
+      "name": "099回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/99.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/35B6F1D4AE.mp3"
+    },
+    {
+      "name": "100回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/100.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/2CB0F88EDD.mp3"
+    },
+    {
+      "name": "101回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/101.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FCF094234B.mp3"
+    },
+    {
+      "name": "102回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/102.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/EF05D7061D.mp3"
+    },
+    {
+      "name": "103回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/103.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/A808B7AAF3.mp3"
+    },
+    {
+      "name": "104回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/104.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F50743B3C6.mp3"
+    },
+    {
+      "name": "105回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/105.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/B7C6589870.mp3"
+    },
+    {
+      "name": "106回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/106.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C7B3CEC922.mp3"
+    },
+    {
+      "name": "107回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/107.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/877C11CF87.mp3"
+    },
+    {
+      "name": "108回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/108.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F8E974EA44.mp3"
+    },
+    {
+      "name": "109回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/109.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/ECE6662030.mp3"
+    },
+    {
+      "name": "110回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/110.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/7D31ABEBEF.mp3"
+    },
+    {
+      "name": "111回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/111.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/43CB9E2A8B.mp3"
+    },
+    {
+      "name": "112回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/112.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/2E141166ED.mp3"
+    },
+    {
+      "name": "113回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/113.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DA830545B9.mp3"
+    },
+    {
+      "name": "114回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/114.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F09E6FE49E.mp3"
+    },
+    {
+      "name": "115回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/115.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FC0FCEA907.mp3"
+    },
+    {
+      "name": "116回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/116.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C394B23C4B.mp3"
+    },
+    {
+      "name": "117回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/117.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C8EFC033F0.mp3"
+    },
+    {
+      "name": "118回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/118.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D72ED98BDB.mp3"
+    },
+    {
+      "name": "119回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/119.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/A64A474888.mp3"
+    },
+    {
+      "name": "120回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/120.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/AB9FF7DA48.mp3"
+    },
+    {
+      "name": "121回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/121.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FDFF0FF2AA.mp3"
+    },
+    {
+      "name": "122回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/122.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/8E27A3DF9E.mp3"
+    },
+    {
+      "name": "123回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/123.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/4C5B560F5C.mp3"
+    },
+    {
+      "name": "124回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/124.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/17E751E5CE.mp3"
+    },
+    {
+      "name": "125回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/125.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/72FB0BC42F.mp3"
+    },
+    {
+      "name": "126回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/126.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/51746B64ED.mp3"
+    },
+    {
+      "name": "127回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/127.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/BC458549F5.mp3"
+    },
+    {
+      "name": "128回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/128.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E107453E15.mp3"
+    },
+    {
+      "name": "129回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/129.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/0A1BE132ED.mp3"
+    },
+    {
+      "name": "130回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/130.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/CDCD4FAB57.mp3"
+    },
+    {
+      "name": "131回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/131.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/65B51D5C2A.mp3"
+    },
+    {
+      "name": "132回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/132.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/BE66B782E8.mp3"
+    },
+    {
+      "name": "133回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/133.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/897D9D03B6.mp3"
+    },
+    {
+      "name": "134回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/134.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/EF015DD576.mp3"
+    },
+    {
+      "name": "135回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/135.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/7462F48CDF.mp3"
+    },
+    {
+      "name": "136回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/136.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/2C4386BEC6.mp3"
+    },
+    {
+      "name": "137回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/137.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/96B6153989.mp3"
+    },
+    {
+      "name": "138回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/138.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/AAAC8D3A1A.mp3"
+    },
+    {
+      "name": "139回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/139.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C5FC5607BC.mp3"
+    },
+    {
+      "name": "140回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/140.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/1EEB0A607A.mp3"
+    },
+    {
+      "name": "141回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/141.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/91DA2506BC.mp3"
+    },
+    {
+      "name": "142回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/142.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/0647E6BFDE.mp3"
+    },
+    {
+      "name": "143回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/143.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FB3CBC72D6.mp3"
+    },
+    {
+      "name": "144回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/144.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C7E5564A21.mp3"
+    },
+    {
+      "name": "145回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/145.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/A41DF7F2C4.mp3"
+    },
+    {
+      "name": "146回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/146.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/B09AF81723.mp3"
+    },
+    {
+      "name": "147回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/147.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/60D4746B4D.mp3"
+    },
+    {
+      "name": "148回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/148.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/0AD12F58BF.mp3"
+    },
+    {
+      "name": "149回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/149.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/47CEBB66F9.mp3"
+    },
+    {
+      "name": "150回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/150.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/A3401EE8E5.mp3"
+    },
+    {
+      "name": "151回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/151.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/EA434C3B9F.mp3"
+    },
+    {
+      "name": "152回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/152.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E572B83C79.mp3"
+    },
+    {
+      "name": "153回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/153.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/B9FE382485.mp3"
+    },
+    {
+      "name": "154回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/154.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/8FF533B988.mp3"
+    },
+    {
+      "name": "155回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/155.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/B5716150AF.mp3"
+    },
+    {
+      "name": "156回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/156.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/896CC1A0EF.mp3"
+    },
+    {
+      "name": "157回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/157.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DDCBD8B417.mp3"
+    },
+    {
+      "name": "158回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/158.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/BD073FFE29.mp3"
+    },
+    {
+      "name": "159回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/159.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/0C449DF007.mp3"
+    },
+    {
+      "name": "160回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/160.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/5650E8D8EC.mp3"
+    },
+    {
+      "name": "161回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/161.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/D78486A5B6.mp3"
+    },
+    {
+      "name": "162回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/162.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/DB813182ED.mp3"
+    },
+    {
+      "name": "163回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/163.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/13489CBCFA.mp3"
+    },
+    {
+      "name": "164回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/164.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/58F5A739FA.mp3"
+    },
+    {
+      "name": "165回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/165.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/58D59AE7AB.mp3"
+    },
+    {
+      "name": "166回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/166.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/13DE570A25.mp3"
+    },
+    {
+      "name": "167回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/167.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/345A8745BA.mp3"
+    },
+    {
+      "name": "168回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/168.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/E80BEB9A67.mp3"
+    },
+    {
+      "name": "169回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/169.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F607C73A48.mp3"
+    },
+    {
+      "name": "170回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/170.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/9C7E9A344B.mp3"
+    },
+    {
+      "name": "171回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/171.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/777B172C5A.mp3"
+    },
+    {
+      "name": "172回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/172.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/38BA98200D.mp3"
+    },
+    {
+      "name": "173回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/173.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/4A44DC2D74.mp3"
+    },
+    {
+      "name": "174回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/174.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/99FD097272.mp3"
+    },
+    {
+      "name": "175回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/175.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/25DE68D208.mp3"
+    },
+    {
+      "name": "176回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/176.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/C9679123C4.mp3"
+    },
+    {
+      "name": "177回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/177.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/7C444460B3.mp3"
+    },
+    {
+      "name": "178回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/178.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/26D90F3C1E.mp3"
+    },
+    {
+      "name": "179回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/179.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/5FB32549C0.mp3"
+    },
+    {
+      "name": "180回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/180.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/FF8C6BCF5D.mp3"
+    },
+    {
+      "name": "181回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/181.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F16AE8B441.mp3"
+    },
+    {
+      "name": "182回 - 鹿鼎记",
+      "url": "http://www.zgpingshu.com/play/5116/182.html",
+      "downloadUrl": "http://ops81.zgpingshu.com/%E8%BF%9E%E4%B8%BD%E5%A6%82/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28182%E5%9B%9E%29%28%E6%BC%94%E6%92%AD-%E8%BF%9E%E4%B8%BD%E5%A6%82%29%2816kb%29/F7B53B7377.mp3"
+    }
+  ]
+}
