@@ -9,7 +9,7 @@ class PingshuService extends Service {
   async fetch(author) {
     const { app } = this;
     // 初始化输出目录
-    await fs.ensureDir(`${app.baseDir}/data/${author}`);
+    await fs.ensureDir(`${app.baseDir}/output/pingshu/${author}`);
     const books = await this._fetchAllBookUrls(author);
     const promises = [];
     books.forEach((book) => {
@@ -21,7 +21,7 @@ class PingshuService extends Service {
 
   async _fetchAllBookUrls(author) {
     const { app } = this;
-    const authorMap = await fs.readJson(`${app.baseDir}/data/author.json`);
+    const authorMap = await fs.readJson(`${app.baseDir}/output/pingshu/author.json`);
     const pageUrls = authorMap[author] || [];
     if (pageUrls.length === 0) return;
     const bookUrls = [];
@@ -82,8 +82,8 @@ class PingshuService extends Service {
     book.chapters = res;
 
     // 写入书籍文件
-    await fs.ensureDir(`${app.baseDir}/data/${book.author}`);
-    await fs.writeJson(`${app.baseDir}/data/${book.author}/${book.name}.json`, book);
+    await fs.ensureDir(`${app.baseDir}/output/pingshu/${book.author}`);
+    await fs.writeJson(`${app.baseDir}/output/pingshu/${book.author}/${book.name}.json`, book);
   }
 
   async _fetchDownloadUrl(chapter) {
@@ -104,12 +104,12 @@ class PingshuService extends Service {
 
   async download(author) {
     const { app } = this;
-    let dirs = await fs.readdir(`${app.baseDir}/data/${author}`);
+    let dirs = await fs.readdir(`${app.baseDir}/output/pingshu/${author}`);
     dirs = dirs.filter((item) => item.includes(".json"));
     for (let i = 0; i < dirs.length; i++) {
       const bookName = dirs[i];
       const dirName = bookName.replace(".json", "");
-      if (fs.existsSync(`${app.baseDir}/data/${dirName}`)) {
+      if (fs.existsSync(`${app.baseDir}/output/pingshu/${dirName}`)) {
         console.log(`已存在: ${dirName}`);
         continue;
       }
@@ -120,8 +120,8 @@ class PingshuService extends Service {
 
   async _downloadBook(author, bookName) {
     const { app } = this;
-    const book = await fs.readJson(`${app.baseDir}/data/${author}/${bookName}`);
-    await fs.ensureDir(`${app.baseDir}/data/${author}/${book.name}`);
+    const book = await fs.readJson(`${app.baseDir}/output/pingshu/${author}/${bookName}`);
+    await fs.ensureDir(`${app.baseDir}/output/pingshu/${author}/${book.name}`);
     console.log(`下载专辑： ${author}`);
     for (let i = 0; i < book.chapters.length; i++) {
       const chapter = book.chapters[i];
@@ -134,7 +134,7 @@ class PingshuService extends Service {
     if (chapter.downloadUrl === "") return;
     console.log(`下载章节：${chapter.name}`);
     const url = chapter.downloadUrl.replace("doshantianfang1", "oshantianfang1");
-    const outputFileName = path.join(app.baseDir, `data/${book.author}/${book.name}/${chapter.name}.mp3`);
+    const outputFileName = path.join(app.baseDir, `output/pingshu/${book.author}/${book.name}/${chapter.name}.mp3`);
     try {
       const buffer = await request.get({ uri: url, encoding: null });
       await fs.writeFile(outputFileName, buffer);
