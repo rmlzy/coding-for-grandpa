@@ -9,4 +9,7 @@ module.exports = (app) => {
   router.get("/pingshu/download/:author", controller.pingshu.download);
 
   router.get("/jidu/fetch", controller.jidu.fetch);
+
+  router.get("/crack/random", controller.crack.random);
+  router.get("/crack/gen", controller.crack.gen);
 };
